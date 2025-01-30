@@ -4,6 +4,7 @@ Phishing para captura de senhas do Facebook
 Ferramentas
 
   Kali Linux
+  
   kit de ferramentas de configuração
   
 Configurando o Phishing no Kali Linux
